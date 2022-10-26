@@ -1,0 +1,44 @@
+body{
+    background-color: #E0DAF1;
+}
+
+iframe{
+        padding-left: 95px;
+        margin-bottom: 30px;    
+}
+
+.familiarization{
+    border:  3px solid black;
+    border-radius: 8px;
+}
+
+
+.download{
+    padding-top: 50px;
+}
+.download div{
+    border: 3px solid black;
+    border-radius: 8px;
+    width: 700px;
+}
+
+
+.word{
+    padding-top: 50px;
+}
+.word div{
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 700px;
+}
+
+.pdf{
+    padding-top: 50px;
+}
+.pdf div{
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 700px;
+
+}
+
